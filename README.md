@@ -13,9 +13,8 @@ I'm a Computer Science student at **UPN "Veteran" Yogyakarta** passionate about 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qolyubmir24&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qolyubmir24&layout=compact&theme=radical)
+## 📊 GitHub Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=qolyubmir24&theme=radical)](https://git.io/streak-stats)
 
 ## 🚀 Featured Projects
 - **[Ellipse Geometry Calculator](https://github.com/qolyubmir24/ellipse-geometry-calculator)**: Java OOP project.
