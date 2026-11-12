@@ -34,17 +34,17 @@
 
   <!-- Bottom Meta Chips -->
   <g transform="translate(28, 212)">
-    <rect x="0" y="0" width="112" height="26" rx="8" fill="#313244"/>
+    <rect x="0" y="0" width="96" height="26" rx="8" fill="#313244"/>
     <circle cx="14" cy="13" r="3.2" fill="#fab387"/>
-    <text x="24" y="17" class="sans" font-size="11.5" font-weight="500" fill="#cdd6f4">Yogyakarta, ID</text>
+    <text x="24" y="17" class="sans" font-size="11.5" font-weight="500" fill="#cdd6f4">Informatics</text>
 
-    <rect x="122" y="0" width="146" height="26" rx="8" fill="#313244"/>
-    <circle cx="136" cy="13" r="3.2" fill="#cba6f7"/>
-    <text x="146" y="17" class="sans" font-size="11.5" font-weight="500" fill="#cdd6f4">ML &amp; Data Science</text>
+    <rect x="106" y="0" width="146" height="26" rx="8" fill="#313244"/>
+    <circle cx="120" cy="13" r="3.2" fill="#cba6f7"/>
+    <text x="130" y="17" class="sans" font-size="11.5" font-weight="500" fill="#cdd6f4">ML &amp; Data Science</text>
 
-    <rect x="278" y="0" width="94" height="26" rx="8" fill="#313244"/>
-    <circle cx="292" cy="13" r="3.2" fill="#94e2d5"/>
-    <text x="302" y="17" class="sans" font-size="11.5" font-weight="500" fill="#cdd6f4">Python 3</text>
+    <rect x="262" y="0" width="94" height="26" rx="8" fill="#313244"/>
+    <circle cx="276" cy="13" r="3.2" fill="#94e2d5"/>
+    <text x="286" y="17" class="sans" font-size="11.5" font-weight="500" fill="#cdd6f4">Python 3</text>
   </g>
 
   <!-- Tile 2: Top Right Bento Card (Current Focus) -->
