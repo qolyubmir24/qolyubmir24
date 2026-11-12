@@ -13,7 +13,7 @@
   <circle cx="26" cy="28" r="4" fill="#a6e3a1"/>
   <text x="38" y="32" class="mono" font-size="11" font-weight="600" fill="#a6e3a1" letter-spacing="0.6">DECISION SUPPORT</text>
   <text x="22" y="68" class="sans" font-size="18.5" font-weight="700" fill="#cdd6f4">Fuzzy Mamdani Rice DSS</text>
-  <text x="22" y="96" class="sans" font-size="13" fill="#a6adc8">Interactive Streamlit app ranking rice yield</text>
-  <text x="22" y="116" class="sans" font-size="13" fill="#a6adc8">feasibility across Sumatra provinces.</text>
+  <text x="22" y="96" class="sans" font-size="13" fill="#a6adc8">Streamlit web app that scores rice cultivation</text>
+  <text x="22" y="116" class="sans" font-size="13" fill="#a6adc8">feasibility across Sumatra from five criteria.</text>
   <rect x="22" y="146" width="61" height="24" rx="7" fill="#313244"/><text x="52.4" y="162" text-anchor="middle" class="sans" font-size="11.5" font-weight="500" fill="#bac2de">Python</text><rect x="90.8" y="146" width="81" height="24" rx="7" fill="#313244"/><text x="131.4" y="162" text-anchor="middle" class="sans" font-size="11.5" font-weight="500" fill="#bac2de">Streamlit</text><rect x="180.0" y="146" width="102" height="24" rx="7" fill="#313244"/><text x="230.8" y="162" text-anchor="middle" class="sans" font-size="11.5" font-weight="500" fill="#bac2de">scikit-fuzzy</text>
 </svg>

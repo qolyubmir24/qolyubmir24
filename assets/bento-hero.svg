@@ -20,17 +20,17 @@
   <rect x="0.5" y="0.5" width="563" height="263" rx="16" fill="url(#softAccent)"/>
 
   <!-- Status Pill -->
-  <rect x="28" y="28" width="248" height="26" rx="13" fill="#313244" stroke="#45475a" stroke-width="1"/>
+  <rect x="28" y="28" width="210" height="26" rx="13" fill="#313244" stroke="#45475a" stroke-width="1"/>
   <circle cx="43" cy="41" r="4" fill="#a6e3a1"/>
-  <text x="55" y="45" class="sans" font-size="11.5" font-weight="500" fill="#bac2de">Open to ML &amp; Data Science Internships</text>
+  <text x="55" y="45" class="sans" font-size="11.5" font-weight="500" fill="#bac2de">Informatics Student · Python</text>
 
   <!-- Name & Role -->
   <text x="28" y="102" class="sans" font-size="34" font-weight="700" fill="#cdd6f4" letter-spacing="-0.5">Mirwan Qolyubi</text>
-  <text x="28" y="130" class="sans" font-size="14.5" font-weight="500" fill="#89b4fa">Informatics Engineering · UPN "Veteran" Yogyakarta</text>
+  <text x="28" y="130" class="sans" font-size="14.5" font-weight="500" fill="#89b4fa">UPN "Veteran" Yogyakarta</text>
 
   <!-- Short Bio -->
-  <text x="28" y="166" class="sans" font-size="13.5" fill="#a6adc8">Building machine learning pipelines, data analysis workflows,</text>
-  <text x="28" y="186" class="sans" font-size="13.5" fill="#a6adc8">and decision support systems with Python.</text>
+  <text x="28" y="166" class="sans" font-size="13.5" fill="#a6adc8">Working on machine learning experiments, data analysis,</text>
+  <text x="28" y="186" class="sans" font-size="13.5" fill="#a6adc8">and Python coursework projects.</text>
 
   <!-- Bottom Meta Chips -->
   <g transform="translate(28, 212)">

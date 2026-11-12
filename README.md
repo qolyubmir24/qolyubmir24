@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/bento-hero.svg" width="100%" alt="Mirwan Qolyubi — Machine Learning & Data Science Bento Card" />
+<img src="./assets/bento-hero.svg" width="100%" alt="Mirwan Qolyubi ML and Data Science Bento Card" />
 
 <br/><br/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-### Featured ML & Data Science Work
+### Projects
 
 <div align="center">
 
@@ -39,15 +39,15 @@
 </div>
 
 <details>
-<summary>Other software &amp; coursework repositories (Web, Java, C++)</summary>
+<summary>Other coursework &amp; web repositories (Web, Java, C++)</summary>
 
-| Project | Stack | Summary |
+| Project | Stack | Notes |
 |---|---|---|
-| **[2D Vector Graphics Canvas](https://github.com/qolyubmir24/grafika-komputer-sederhana)** | `HTML5 Canvas` `JavaScript` | Browser-based 2D vector drawing tool with move, scale, rotate, shear transforms, and undo/redo. |
-| **[Portfolio Website](https://github.com/qolyubmir24/qolyubmir24.github.io)** | `HTML` `CSS` `JavaScript` | Personal portfolio website hosted on GitHub Pages. |
-| **[Ellipse Geometry Calculator](https://github.com/qolyubmir24/ellipse-geometry-calculator)** | `Java` `OOP` `Multithreading` | OOP class hierarchy and multithreaded calculations for ellipses and derived 3D shapes. |
-| **[Berkendar Driving School](https://github.com/qolyubmir24/berkendar-driving-school-system)** | `Java` `OOP` | Console application modeling students, instructors, vehicles, and driving exams. |
-| **[CLI Store Inventory &amp; Cashier](https://github.com/qolyubmir24/algorithm-advance-project)** | `C++` `File I/O` | Online/offline store simulation with text-file persistence for stock, staff, and transactions. |
+| **[2D Vector Graphics Canvas](https://github.com/qolyubmir24/grafika-komputer-sederhana)** | `HTML5 Canvas` `JavaScript` | Browser 2D vector drawing tool with move, scale, rotate, shear, and undo/redo. |
+| **[Portfolio Website](https://github.com/qolyubmir24/qolyubmir24.github.io)** | `HTML` `CSS` `JavaScript` | Personal portfolio site hosted on GitHub Pages. |
+| **[Ellipse Geometry Calculator](https://github.com/qolyubmir24/ellipse-geometry-calculator)** | `Java` `OOP` `Multithreading` | Java OOP console app for ellipses and derived 3D shapes with multithreaded workers. |
+| **[Berkendar Driving School](https://github.com/qolyubmir24/berkendar-driving-school-system)** | `Java` `OOP` | Java OOP console program for students, instructors, vehicles, and exam tiers. |
+| **[CLI Store Inventory &amp; Cashier](https://github.com/qolyubmir24/algorithm-advance-project)** | `C++` `File I/O` | C++ console store simulation that saves stock, staff, and orders in text files. |
 
 </details>
 
