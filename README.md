@@ -1,130 +1,66 @@
-<div align="center">
+# Mirwan Qolyubi
 
-<img src="./assets/hero-cyber.svg" width="100%" alt="Mirwan Qolyubi — ML & Data Science Cyberpunk Hero" />
+Informatics student at **UPN "Veteran" Yogyakarta** focusing on **Machine Learning** and **Data Science** with **Python**.
 
-<br/><br/>
+[Portfolio](https://qolyubmir24.github.io/) · [LinkedIn](https://www.linkedin.com/in/mirwan-qolyubi-58bb9337b) · [Instagram](https://instagram.com/qolyub_mir)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-qolyubmir24.github.io-070B19?style=for-the-badge&logo=googlechrome&logoColor=00F5D4&labelColor=0F172A)](https://qolyubmir24.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mirwan%20Qolyubi-070B19?style=for-the-badge&logo=linkedin&logoColor=FF2A85&labelColor=0F172A)](https://www.linkedin.com/in/mirwan-qolyubi-58bb9337b)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%40qolyub__mir-070B19?style=for-the-badge&logo=instagram&logoColor=9D4EDD&labelColor=0F172A)](https://instagram.com/qolyub_mir)
-![Profile Views](https://komarev.com/ghpvc/?username=qolyubmir24&color=00F5D4&style=for-the-badge&label=VIEWS&labelColor=0F172A)
+---
 
-<br/><br/>
-<img src="./assets/divider-neon.svg" width="100%" alt="divider" />
+### Focus
 
-</div>
+- **Machine Learning & Data Science:** Exploratory data analysis, feature selection, supervised classification, and semi-supervised clustering on network traffic datasets (`CICIDS2017`).
+- **Decision Support Systems:** Applying fuzzy inference (Mamdani) and interactive data apps with Streamlit.
+- **Coursework Foundations:** Object-oriented design in Java, CLI systems in C++, and browser-based 2D graphics in JavaScript.
 
-### `// ABOUT ME`
+### Stack
 
-> Informatics Engineering student at **UPN "Veteran" Yogyakarta** focusing on **Machine Learning** and **Data Science** with **Python** — turning raw data into predictive models, clustering insights, and decision support systems.
-
-```python
-mirwan = {
-    "role": "Machine Learning & Data Science Enthusiast",
-    "primary_stack": ["Python", "scikit-learn", "Pandas", "NumPy", "Jupyter", "Streamlit"],
-    "research_focus": ["Network Anomaly Detection", "Semi-Supervised Clustering", "Fuzzy DSS"],
-    "open_to": ["Data Science / ML Internships", "Applied AI Research", "Collaboration"],
-}
-```
-
-<div align="center">
-<img src="./assets/divider-neon.svg" width="100%" alt="divider" />
-</div>
-
-### `// TECH STACK`
-
-<div align="center">
-
-**`PRIMARY // ML & DATA SCIENCE`**
+- **Primary (ML & Data Science):** Python, scikit-learn, Pandas, NumPy, Matplotlib, Jupyter, Streamlit, scikit-fuzzy
+- **Supporting:** Git, GitHub, Java, C++, JavaScript, HTML/CSS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" alt="Python & scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,git,github,vscode,java,cpp,js" alt="Tech Stack" height="36" />
 </p>
 
-![Python](https://img.shields.io/badge/Python-070B19?style=flat-square&logo=python&logoColor=00F5D4)
-![Pandas](https://img.shields.io/badge/Pandas-070B19?style=flat-square&logo=pandas&logoColor=9D4EDD)
-![NumPy](https://img.shields.io/badge/NumPy-070B19?style=flat-square&logo=numpy&logoColor=00F5D4)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-070B19?style=flat-square&logo=scikitlearn&logoColor=FF2A85)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-070B19?style=flat-square&logo=python&logoColor=38BDF8)
-![Jupyter](https://img.shields.io/badge/Jupyter-070B19?style=flat-square&logo=jupyter&logoColor=FF2A85)
-![Streamlit](https://img.shields.io/badge/Streamlit-070B19?style=flat-square&logo=streamlit&logoColor=FF2A85)
-![scikit-fuzzy](https://img.shields.io/badge/scikit--fuzzy-070B19?style=flat-square&logo=python&logoColor=00F5D4)
+---
 
-<br/>
+### Selected Projects
 
-**`SUPPORTING // SOFTWARE ENGINEERING & WEB`**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,java,cpp,js,html,css&theme=dark" alt="Supporting Stack" />
-</p>
-
-<img src="./assets/divider-neon.svg" width="100%" alt="divider" />
-
-</div>
-
-### `// FEATURED ML & DATA SCIENCE PROJECTS`
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/qolyubmir24/Data-Science-Practicum-Project_IF-H">
-        <img src="./assets/proj-ddos.svg" width="100%" alt="DDoS Traffic Anomaly Detection" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/qolyubmir24/ML">
-        <img src="./assets/proj-kmeans.svg" width="100%" alt="Semi-Supervised K-Means DDoS" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/qolyubmir24/fuzzy-logic-scpk">
-        <img src="./assets/proj-fuzzy.svg" width="100%" alt="Fuzzy Mamdani Rice DSS" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+| Project | Domain | Stack | Summary |
+|---|---|---|---|
+| **[DDoS Traffic Anomaly Detection](https://github.com/qolyubmir24/Data-Science-Practicum-Project_IF-H)** | Data Science | `Python` `Pandas` `Random Forest` | Binary classification pipeline distinguishing normal (`BENIGN`) and `DDoS` network traffic flows on CICIDS2017. |
+| **[Semi-Supervised K-Means DDoS](https://github.com/qolyubmir24/ML)** | Machine Learning | `Python` `scikit-learn` `K-Means` | Experimental replication of Jasim & Gaata (2022) evaluating hybrid feature selection, Canopy baseline, and K-Means clustering (`simulasi-kmeans-paper`). |
+| **[Fuzzy Mamdani Rice DSS](https://github.com/qolyubmir24/fuzzy-logic-scpk)** | Decision Support | `Python` `Streamlit` `scikit-fuzzy` | Web application ranking rice cultivation feasibility across Sumatra provinces using five agricultural and climate criteria. |
 
 <details>
-<summary><strong><code>+ MORE // OTHER SOFTWARE &amp; CS COURSEWORK PROJECTS</code></strong></summary>
+<summary>Other coursework &amp; web projects</summary>
 
 | Project | Stack | Summary |
 |---|---|---|
-| **[2D Vector Graphics Canvas](https://github.com/qolyubmir24/grafika-komputer-sederhana)** | `HTML5 Canvas` `JavaScript` | Browser-based vector drawing tool with move, scale, rotate, shear transforms, and undo/redo. |
+| **[2D Vector Graphics Canvas](https://github.com/qolyubmir24/grafika-komputer-sederhana)** | `HTML5 Canvas` `JavaScript` | Browser-based 2D vector drawing tool with move, scale, rotate, shear transforms, and undo/redo. |
 | **[Portfolio Website](https://github.com/qolyubmir24/qolyubmir24.github.io)** | `HTML` `CSS` `JavaScript` | Personal portfolio website hosted on GitHub Pages. |
-| **[Ellipse Geometry Calculator](https://github.com/qolyubmir24/ellipse-geometry-calculator)** | `Java` `OOP` `Multithreading` | OOP hierarchy and multithreaded calculations for ellipses and derived 3D shapes. |
-| **[Berkendar Driving School](https://github.com/qolyubmir24/berkendar-driving-school-system)** | `Java` `OOP` | Console system modeling students, instructors, vehicles, and tiered driving exams. |
-| **[CLI Store Inventory & Cashier](https://github.com/qolyubmir24/algorithm-advance-project)** | `C++` `File I/O` | Online/offline store simulation with persistent text-file inventory and transaction records. |
+| **[Ellipse Geometry Calculator](https://github.com/qolyubmir24/ellipse-geometry-calculator)** | `Java` `OOP` `Multithreading` | OOP class hierarchy and multithreaded calculations for ellipses and derived 3D shapes. |
+| **[Berkendar Driving School](https://github.com/qolyubmir24/berkendar-driving-school-system)** | `Java` `OOP` | Console application modeling students, instructors, vehicles, and driving exams. |
+| **[CLI Store Inventory &amp; Cashier](https://github.com/qolyubmir24/algorithm-advance-project)** | `C++` `File I/O` | Online/offline store simulation with text-file persistence for stock, staff, and transactions. |
 
 </details>
 
-<div align="center">
-<img src="./assets/divider-neon.svg" width="100%" alt="divider" />
-</div>
+---
 
-### `// GITHUB ANALYTICS & CONTRIBUTION SNAKE`
-
-<div align="center">
+### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-snake-neon.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-snake-light.svg" />
-  <img alt="Neon Contribution Snake" src="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-snake-neon.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qolyubmir24&theme=radical" alt="GitHub Profile Summary" width="94%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qolyubmir24&theme=github_dark" alt="GitHub Profile Summary" width="94%" />
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=qolyubmir24&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qolyubmir24&theme=radical" alt="Top Languages by Commit" height="165" />
-
-<br/><br/>
-<img src="./assets/divider-neon.svg" width="100%" alt="footer divider" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=qolyubmir24&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qolyubmir24&theme=github_dark" alt="Top Languages by Commit" height="165" />
+</p>

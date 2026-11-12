@@ -1,4 +1,4 @@
-name: Generate Neon Contribution Snake
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -18,13 +18,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate neon contribution snake SVG
+      - name: Generate contribution snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-neon.svg?color_snake=#FF2A85&color_dots=#161b22,#083344,#0e7490,#06b6d4,#00f5d4
-            dist/github-snake-light.svg?color_snake=#FF2A85&color_dots=#ebedf0,#a5f3fc,#22d3ee,#0891b2,#0e7490
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
 
       - name: Push snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
