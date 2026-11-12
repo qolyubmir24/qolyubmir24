@@ -105,9 +105,17 @@ mirwan = {
 <img src="./assets/divider-neon.svg" width="100%" alt="divider" />
 </div>
 
-### `// GITHUB ANALYTICS`
+### `// GITHUB ANALYTICS & CONTRIBUTION SNAKE`
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-snake-neon.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-snake-light.svg" />
+  <img alt="Neon Contribution Snake" src="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-snake-neon.svg" width="100%" />
+</picture>
+
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qolyubmir24&theme=radical" alt="GitHub Profile Summary" width="94%" />
 
@@ -115,5 +123,8 @@ mirwan = {
 
 <img src="https://streak-stats.demolab.com?user=qolyubmir24&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qolyubmir24&theme=radical" alt="Top Languages by Commit" height="165" />
+
+<br/><br/>
+<img src="./assets/divider-neon.svg" width="100%" alt="footer divider" />
 
 </div>
