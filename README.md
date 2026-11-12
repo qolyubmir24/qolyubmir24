@@ -1,9 +1,9 @@
 <div align="center">
 
-# Mirwan Qolyubi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=210&section=header&text=Mirwan%20Qolyubi&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Machine%20Learning%20%26%20Data%20Science%20%7C%20Python&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Mirwan Qolyubi Banner" />
 
 <a href="https://qolyubmir24.github.io/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Data+Science+Enthusiast;Python+%7C+scikit-learn+%7C+Pandas+%7C+Jupyter+%7C+Streamlit;Informatics+Student+%40+UPN+%22Veteran%22+Yogyakarta" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Data+Science+%26+Machine+Learning+with+Python;EDA+%7C+Clustering+%7C+Classification+%7C+Decision+Support;Informatics+Student+%40+UPN+%22Veteran%22+Yogyakarta" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,6 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-qolyubmir24.github.io-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8)](https://qolyubmir24.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirwan%20Qolyubi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirwan-qolyubi-58bb9337b)
 [![Instagram](https://img.shields.io/badge/Instagram-%40qolyub__mir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/qolyub_mir)
+![Profile Views](https://komarev.com/ghpvc/?username=qolyubmir24&color=0284C7&style=for-the-badge&label=VIEWS)
 
 </div>
 
@@ -18,32 +19,69 @@
 
 ### About Me
 
-- **Primary Focus:** **Machine Learning** and **Data Science** with **Python** — covering exploratory data analysis, feature engineering, clustering, classification, and decision support systems.
-- **Background:** Informatics Engineering undergraduate at **UPN "Veteran" Yogyakarta** (Yogyakarta, Indonesia), with foundational software engineering experience in Java, C++, and web technologies.
-- **Open To:** Data Science / Machine Learning internships, applied AI research collaborations, and data-driven projects.
+> Informatics Engineering student at **UPN "Veteran" Yogyakarta** focusing on **Machine Learning** and **Data Science** with **Python**. I enjoy turning raw datasets into structured insights, replicating ML research pipelines, and building practical data-driven applications.
+
+- **Core Focus:** Exploratory Data Analysis (EDA), Feature Engineering, Supervised & Semi-Supervised Learning, Fuzzy Decision Support Systems
+- **Current Exploration:** Network anomaly / DDoS traffic detection and clustering evaluation on CICIDS2017
+- **Collaboration:** Open to Data Science & ML internships, research projects, and technical discussions
 
 ---
 
 ### Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **Primary Stack (ML & Data)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Other Languages & Web** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Workflow & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+<div align="center">
+
+**Primary — Machine Learning & Data Science**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,sklearn" alt="Python & scikit-learn" />
+</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-fuzzy](https://img.shields.io/badge/scikit--fuzzy-0F766E?style=flat-square&logo=python&logoColor=white)
+
+<br/>
+
+**Supporting — Software Engineering, Web & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,java,cpp,js,html,css" alt="Supporting stack" />
+</p>
+
+</div>
 
 ---
 
-### Machine Learning & Data Science Projects
+### Featured ML & Data Science Projects
 
-| Project | Focus | Stack | Summary |
-|---|---|---|---|
-| **[DDoS Traffic Anomaly Detection](https://github.com/qolyubmir24/Data-Science-Practicum-Project_IF-H)** | Supervised Classification | `Python` `Pandas` `Random Forest` `Jupyter` | Binary classification pipeline distinguishing normal (`BENIGN`) and `DDoS` network traffic flows on CICIDS2017. |
-| **[Semi-Supervised K-Means DDoS](https://github.com/qolyubmir24/ML)** | Clustering & Replication | `Python` `scikit-learn` `K-Means` `Jupyter` | Paper replication (Jasim & Gaata, 2022) comparing hybrid feature selection, Canopy baseline, and K-Means on CICIDS2017 (`simulasi-kmeans-paper`). |
-| **[Fuzzy Mamdani Rice Production DSS](https://github.com/qolyubmir24/fuzzy-logic-scpk)** | Fuzzy Inference / DSS | `Python` `scikit-fuzzy` `Streamlit` | Interactive Streamlit web app ranking rice cultivation feasibility across Sumatra using 5 environmental & production criteria. |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/qolyubmir24/Data-Science-Practicum-Project_IF-H">DDoS Traffic Anomaly Detection</a></h4>
+      <p>Binary classification pipeline distinguishing normal (<code>BENIGN</code>) and <code>DDoS</code> network traffic flows on CICIDS2017 using <strong>Random Forest</strong>.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Random Forest</code> <code>Jupyter</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/qolyubmir24/ML">Semi-Supervised K-Means DDoS</a></h4>
+      <p>Experimental replication of Jasim &amp; Gaata (2022) evaluating hybrid feature selection, Canopy baseline, and K-Means clustering on CICIDS2017.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>K-Means</code> <code>Jupyter</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/qolyubmir24/fuzzy-logic-scpk">Fuzzy Mamdani Rice DSS</a></h4>
+      <p>Interactive <strong>Streamlit</strong> decision support app ranking rice cultivation feasibility across Sumatra provinces from 5 agricultural criteria.</p>
+      <p><code>Python</code> <code>Streamlit</code> <code>scikit-fuzzy</code></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><strong>Other Software & Coursework Projects (Web, Java, C++)</strong></summary>
+<summary><strong>Other Software &amp; CS Coursework Projects (Web, Java, C++)</strong></summary>
 
 | Project | Stack | Summary |
 |---|---|---|
@@ -61,11 +99,15 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qolyubmir24&theme=tokyonight" alt="GitHub Profile Summary" width="92%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qolyubmir24&theme=tokyonight" alt="GitHub Profile Summary" width="94%" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=qolyubmir24&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qolyubmir24&theme=tokyonight" alt="Top Languages by Commit" height="165" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:1E3A8A,100:0F172A&height=110&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
