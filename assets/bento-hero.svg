@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 264" width="900" height="264" fill="none">
+  <defs>
+    <linearGradient id="tileBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1e1e2e"/>
+      <stop offset="100%" stop-color="#181825"/>
+    </linearGradient>
+    <radialGradient id="softAccent" cx="85%" cy="15%" r="65%">
+      <stop offset="0%" stop-color="#89b4fa" stop-opacity="0.10"/>
+      <stop offset="55%" stop-color="#cba6f7" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#181825" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <!-- Tile 1: Main Intro (Left Bento Card) -->
+  <rect x="0.5" y="0.5" width="563" height="263" rx="16" fill="url(#tileBg)" stroke="#45475a" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="563" height="263" rx="16" fill="url(#softAccent)"/>
+
+  <!-- Status Pill -->
+  <rect x="28" y="28" width="248" height="26" rx="13" fill="#313244" stroke="#45475a" stroke-width="1"/>
+  <circle cx="43" cy="41" r="4" fill="#a6e3a1"/>
+  <text x="55" y="45" class="sans" font-size="11.5" font-weight="500" fill="#bac2de">Open to ML &amp; Data Science Internships</text>
+
+  <!-- Name & Role -->
+  <text x="28" y="102" class="sans" font-size="34" font-weight="700" fill="#cdd6f4" letter-spacing="-0.5">Mirwan Qolyubi</text>
+  <text x="28" y="130" class="sans" font-size="14.5" font-weight="500" fill="#89b4fa">Informatics Engineering · UPN "Veteran" Yogyakarta</text>
+
+  <!-- Short Bio -->
+  <text x="28" y="166" class="sans" font-size="13.5" fill="#a6adc8">Building machine learning pipelines, data analysis workflows,</text>
+  <text x="28" y="186" class="sans" font-size="13.5" fill="#a6adc8">and decision support systems with Python.</text>
+
+  <!-- Bottom Meta Chips -->
+  <g transform="translate(28, 212)">
+    <rect x="0" y="0" width="112" height="26" rx="8" fill="#313244"/>
+    <circle cx="14" cy="13" r="3.2" fill="#fab387"/>
+    <text x="24" y="17" class="sans" font-size="11.5" font-weight="500" fill="#cdd6f4">Yogyakarta, ID</text>
+
+    <rect x="122" y="0" width="146" height="26" rx="8" fill="#313244"/>
+    <circle cx="136" cy="13" r="3.2" fill="#cba6f7"/>
+    <text x="146" y="17" class="sans" font-size="11.5" font-weight="500" fill="#cdd6f4">ML &amp; Data Science</text>
+
+    <rect x="278" y="0" width="94" height="26" rx="8" fill="#313244"/>
+    <circle cx="292" cy="13" r="3.2" fill="#94e2d5"/>
+    <text x="302" y="17" class="sans" font-size="11.5" font-weight="500" fill="#cdd6f4">Python 3</text>
+  </g>
+
+  <!-- Tile 2: Top Right Bento Card (Current Focus) -->
+  <rect x="579.5" y="0.5" width="320" height="124" rx="16" fill="url(#tileBg)" stroke="#45475a" stroke-width="1"/>
+  <text x="602" y="29" class="mono" font-size="10.5" font-weight="600" fill="#6c7086" letter-spacing="0.8">CURRENT FOCUS</text>
+  <circle cx="852" cy="25" r="3.5" fill="#cba6f7"/>
+  <circle cx="864" cy="25" r="3.5" fill="#89b4fa"/>
+  <circle cx="876" cy="25" r="3.5" fill="#a6e3a1"/>
+
+  <text x="602" y="61" class="sans" font-size="16.5" font-weight="600" fill="#cdd6f4">Network Anomaly Detection</text>
+  <text x="602" y="85" class="sans" font-size="12.5" fill="#a6adc8">Supervised Random Forest &amp; Semi-Supervised</text>
+  <text x="602" y="103" class="sans" font-size="12.5" fill="#a6adc8">K-Means experiments on CICIDS2017.</text>
+
+  <!-- Tile 3: Bottom Right Bento Card (Core Stack) -->
+  <rect x="579.5" y="139.5" width="320" height="124" rx="16" fill="url(#tileBg)" stroke="#45475a" stroke-width="1"/>
+  <text x="602" y="167" class="mono" font-size="10.5" font-weight="600" fill="#6c7086" letter-spacing="0.8">PRIMARY ML STACK</text>
+
+  <!-- Row 1 Pills -->
+  <g transform="translate(602, 180)">
+    <rect x="0" y="0" width="84" height="28" rx="8" fill="#313244"/>
+    <circle cx="14" cy="14" r="3.5" fill="#89b4fa"/>
+    <text x="25" y="18" class="sans" font-size="12" font-weight="500" fill="#cdd6f4">Python</text>
+
+    <rect x="92" y="0" width="100" height="28" rx="8" fill="#313244"/>
+    <circle cx="106" cy="14" r="3.5" fill="#fab387"/>
+    <text x="117" y="18" class="sans" font-size="12" font-weight="500" fill="#cdd6f4">scikit-learn</text>
+
+    <rect x="200" y="0" width="76" height="28" rx="8" fill="#313244"/>
+    <circle cx="214" cy="14" r="3.5" fill="#cba6f7"/>
+    <text x="225" y="18" class="sans" font-size="12" font-weight="500" fill="#cdd6f4">Pandas</text>
+  </g>
+
+  <!-- Row 2 Pills -->
+  <g transform="translate(602, 216)">
+    <rect x="0" y="0" width="84" height="28" rx="8" fill="#313244"/>
+    <circle cx="14" cy="14" r="3.5" fill="#74c7ec"/>
+    <text x="25" y="18" class="sans" font-size="12" font-weight="500" fill="#cdd6f4">NumPy</text>
+
+    <rect x="92" y="0" width="86" height="28" rx="8" fill="#313244"/>
+    <circle cx="106" cy="14" r="3.5" fill="#f38ba8"/>
+    <text x="117" y="18" class="sans" font-size="12" font-weight="500" fill="#cdd6f4">Jupyter</text>
+
+    <rect x="186" y="0" width="90" height="28" rx="8" fill="#313244"/>
+    <circle cx="200" cy="14" r="3.5" fill="#a6e3a1"/>
+    <text x="211" y="18" class="sans" font-size="12" font-weight="500" fill="#cdd6f4">Streamlit</text>
+  </g>
+</svg>

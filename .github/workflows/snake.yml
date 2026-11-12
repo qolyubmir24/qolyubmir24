@@ -18,13 +18,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate contribution snake SVG
+      - name: Generate Catppuccin contribution snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-snake-catppuccin.svg?color_snake=#cba6f7&color_dots=#181825,#313244,#74c7ec,#89b4fa,#a6e3a1
+            dist/github-snake-latte.svg?color_snake=#8839ef&color_dots=#eff1f5,#ccd0da,#7287fd,#1e66f5,#40a02b
 
       - name: Push snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4

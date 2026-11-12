@@ -1,38 +1,45 @@
-# Mirwan Qolyubi
+<div align="center">
 
-Informatics student at **UPN "Veteran" Yogyakarta** focusing on **Machine Learning** and **Data Science** with **Python**.
+<img src="./assets/bento-hero.svg" width="100%" alt="Mirwan Qolyubi — Machine Learning & Data Science Bento Card" />
 
-[Portfolio](https://qolyubmir24.github.io/) · [LinkedIn](https://www.linkedin.com/in/mirwan-qolyubi-58bb9337b) · [Instagram](https://instagram.com/qolyub_mir)
+<br/><br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-qolyubmir24.github.io-181825?style=for-the-badge&logo=googlechrome&logoColor=89b4fa&labelColor=313244)](https://qolyubmir24.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirwan%20Qolyubi-181825?style=for-the-badge&logo=linkedin&logoColor=cba6f7&labelColor=313244)](https://www.linkedin.com/in/mirwan-qolyubi-58bb9337b)
+[![Instagram](https://img.shields.io/badge/Instagram-%40qolyub__mir-181825?style=for-the-badge&logo=instagram&logoColor=f38ba8&labelColor=313244)](https://instagram.com/qolyub_mir)
 
-### Focus
-
-- **Machine Learning & Data Science:** Exploratory data analysis, feature selection, supervised classification, and semi-supervised clustering on network traffic datasets (`CICIDS2017`).
-- **Decision Support Systems:** Applying fuzzy inference (Mamdani) and interactive data apps with Streamlit.
-- **Coursework Foundations:** Object-oriented design in Java, CLI systems in C++, and browser-based 2D graphics in JavaScript.
-
-### Stack
-
-- **Primary (ML & Data Science):** Python, scikit-learn, Pandas, NumPy, Matplotlib, Jupyter, Streamlit, scikit-fuzzy
-- **Supporting:** Git, GitHub, Java, C++, JavaScript, HTML/CSS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,sklearn,git,github,vscode,java,cpp,js" alt="Tech Stack" height="36" />
-</p>
+</div>
 
 ---
 
-### Selected Projects
+### Featured ML & Data Science Work
 
-| Project | Domain | Stack | Summary |
-|---|---|---|---|
-| **[DDoS Traffic Anomaly Detection](https://github.com/qolyubmir24/Data-Science-Practicum-Project_IF-H)** | Data Science | `Python` `Pandas` `Random Forest` | Binary classification pipeline distinguishing normal (`BENIGN`) and `DDoS` network traffic flows on CICIDS2017. |
-| **[Semi-Supervised K-Means DDoS](https://github.com/qolyubmir24/ML)** | Machine Learning | `Python` `scikit-learn` `K-Means` | Experimental replication of Jasim & Gaata (2022) evaluating hybrid feature selection, Canopy baseline, and K-Means clustering (`simulasi-kmeans-paper`). |
-| **[Fuzzy Mamdani Rice DSS](https://github.com/qolyubmir24/fuzzy-logic-scpk)** | Decision Support | `Python` `Streamlit` `scikit-fuzzy` | Web application ranking rice cultivation feasibility across Sumatra provinces using five agricultural and climate criteria. |
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/qolyubmir24/Data-Science-Practicum-Project_IF-H">
+        <img src="./assets/bento-ddos.svg" width="100%" alt="DDoS Traffic Anomaly Detection" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/qolyubmir24/ML">
+        <img src="./assets/bento-kmeans.svg" width="100%" alt="Semi-Supervised K-Means DDoS" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/qolyubmir24/fuzzy-logic-scpk">
+        <img src="./assets/bento-fuzzy.svg" width="100%" alt="Fuzzy Mamdani Rice DSS" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <details>
-<summary>Other coursework &amp; web projects</summary>
+<summary>Other software &amp; coursework repositories (Web, Java, C++)</summary>
 
 | Project | Stack | Summary |
 |---|---|---|
@@ -46,21 +53,33 @@ Informatics student at **UPN "Veteran" Yogyakarta** focusing on **Machine Learni
 
 ---
 
-### Activity
+### Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,sklearn,git,github,vscode,java,cpp,js,html,css&theme=dark" alt="Toolbox Icons" />
+
+</div>
+
+---
+
+### Activity & Analytics
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-snake-catppuccin.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-snake-latte.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/qolyubmir24/qolyubmir24/output/github-snake-catppuccin.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qolyubmir24&theme=github_dark" alt="GitHub Profile Summary" width="94%" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qolyubmir24&theme=tokyonight" alt="GitHub Profile Summary" width="94%" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=qolyubmir24&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qolyubmir24&theme=github_dark" alt="Top Languages by Commit" height="165" />
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=qolyubmir24&background=181825&border=45475A&stroke=313244&ring=CBA6F7&fire=FAB387&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=B4BEFE&sideLabels=A6ADC8&dates=6C7086&border_radius=12" alt="GitHub Streak" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qolyubmir24&theme=tokyonight" alt="Top Languages by Commit" height="165" />
+
+</div>
